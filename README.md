@@ -12,3 +12,4 @@ Bu proje, Gemini AI'ın gücünü kullanarak internette e-kitap arayan ve indire
 - Hızlı indirme.
 
 *Geliştirme: E-Book Fetcher Team*
+
