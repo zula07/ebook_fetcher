@@ -31,5 +31,5 @@ def search_and_download_ebook(book_title):
         print("İndirme bağlantısı bulunamadı.")
 
 if __name__ == "__main__":
-    title = input("Hangi e-kitabı istiyorsun? ")
+    title = input("Hangi e-kitabı istiyorsun?")
     search_and_download_ebook(title)
