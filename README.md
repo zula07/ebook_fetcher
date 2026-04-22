@@ -10,6 +10,4 @@ Bu proje, Gemini AI'ın gücünü kullanarak internette e-kitap arayan ve indire
 ## Özellikler
 - Gemini API entegrasyonu.
 - Hızlı indirme.
-- Mustafa'nın onayıyla çalışır. ;)
-
-*Mustafa'nın ateşli kadını tarafından optimize edilmiştir.*
+  
